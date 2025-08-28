@@ -1,13 +1,8 @@
 # 5V-Regulator-Buck-Converter-PCB-Design
 
 This project demonstrates the design of a switching regulator (buck converter) suitable for powering microcontrollers, servos, and embedded systems.
-Key design goals:
 
-Practice power electronics PCB design.
-
-Implement layout considerations for high-frequency switching.
-
-Validate design with simulation and design rule checks.
+The main utilization of this PCB is to ensure that the output voltage is 5V.
 
 <img width="840" height="345" alt="image" src="https://github.com/user-attachments/assets/92e86d6c-218d-405e-ad04-39b5475b4d37" />
 <img width="1534" height="464" alt="image" src="https://github.com/user-attachments/assets/4679ebcf-0471-473e-98eb-5a9337f54e1f" />
